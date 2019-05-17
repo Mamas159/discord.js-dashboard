@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+
+    "clientId": "562596614360006666",
+    "clientSecret": "kbgWzLzrNnvQANt6bMRN_DaAEMpKfxrr",
+    "scopes": ["identify", "guilds"],
+    "redirectUri": "https://fbi33.herokuapp.com:3000/authorize/callback"
+}

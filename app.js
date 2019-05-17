@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-let port = require('./config.json').port || 3000;
+let port = require('./config.json').port || 8080;
 app.set('port', port);
 
 const session = require('express-session');
